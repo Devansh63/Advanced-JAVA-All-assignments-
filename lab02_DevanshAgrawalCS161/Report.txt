@@ -1,0 +1,17 @@
+Progress Report
+
+Section 1	Avg	Grade
+Aniston		81.2	B
+Blair		52.2	F
+Cooper		82.2	B
+Gupta		72.2	C
+Johnson		90.6	A
+
+
+Section 2	Avg	Grade
+Bronson		90.0	A
+Clark		59.2	F
+Diana		68.8	D
+Kennedy		63.4	D
+Smith		75.4	C
+Sunny		84.8	B
